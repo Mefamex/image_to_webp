@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: image_to_webp
+Version: 1.0.0
+Summary: Image To Webp, çalıştığı klasordeki tüm resimleri webp formatına dönüştürmenizi sağlayan bir Python projesidir.
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: pillow>=11.1.0
+Requires-Dist: roboflow>=1.1.53
+
+# Image To Webp

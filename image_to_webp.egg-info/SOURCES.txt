@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+image_to_webp.egg-info/PKG-INFO
+image_to_webp.egg-info/SOURCES.txt
+image_to_webp.egg-info/dependency_links.txt
+image_to_webp.egg-info/requires.txt
+image_to_webp.egg-info/top_level.txt

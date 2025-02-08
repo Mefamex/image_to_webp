@@ -1,0 +1,13 @@
+[project]
+name = "image_to_webp"
+version = "1.0.0"
+description = "Image To Webp, çalıştığı klasordeki tüm resimleri webp formatına dönüştürmenizi sağlayan bir Python projesidir."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["pillow>=11.1.0", "roboflow>=1.1.53"]
+
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pillow = "^11.1.0"
+roboflow = "^1.1.53"
